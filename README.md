@@ -1,1 +1,1 @@
-A small Tic Tac Toe game in C++.
+C++ folder in order to keep progression of my learning.
